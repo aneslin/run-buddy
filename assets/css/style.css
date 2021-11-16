@@ -1,6 +1,6 @@
 /*apply to <header> */
 
-* {margin: o;
+* {margin: 0;
 padding: 0;
 box-sizing: border-box;}
 
@@ -16,14 +16,14 @@ header a {
 
 header nav { 
     float: right;
-    margin: 7px o;
+    margin: 7px 0;
 }
 
 header nav ul li {
     display: inline
 }
 header nav ul li a {
-    margin: o 30px;
+    margin: 0 30px;
     font-weight: lighter;
     font-size: 22px;
 }
@@ -65,4 +65,14 @@ footer div {
 
 footer a {
     color: #023e76;
+}
+
+section {
+    padding: 60px;
+    
+}
+
+.hero { 
+    background-image: url("C:/Users/anesl/OneDrive/Documents/workspace/projects/run-buddy/assets/images/hero-bg.jpg");
+    height: 600px;
 }
