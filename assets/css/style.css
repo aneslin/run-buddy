@@ -41,10 +41,7 @@ header h1 {
     margin: 0;
     display: inline;
 }
-
-header a {
-    text-decoration: none;
-    color: #fce138;
+;
 }
 
 footer {
@@ -75,7 +72,7 @@ section {
 }
 /*hero style begints */
 .hero {
-    background-image: url("../images/hero-bg.jpg");
+    background-image: url("../images/flipped-hero-image.jpg");
     height: 600px;
     background-size: cover;
     background-position: center;
